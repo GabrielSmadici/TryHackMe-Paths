@@ -1,3 +1,5 @@
+This is a cheatsheet of cmd commands and my understanding of them.
+
 ver -> shows version of os
 
 systeminfo -> shows system information
